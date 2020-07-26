@@ -9,18 +9,19 @@
   <img align="left" alt="Ashutosh Singh Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br/>
+<br/>
 
 
 
 
 - 🔭 I’m currently working on intern and trainee [linux world informatics pvt ltd] (http://www.linuxworldindia.org/)
-- 🌱 I’m currently learning Swift.
-- 👯 I’m looking to collaborate on [Youtube](https://youtube.com/mtechviral).
-- 🤔 I’m looking for help with VelocityX documentation.
-- 💬 Ask me about Flutter or any tech related stuff.
+- 🌱 I’m currently learning Data Science ,Machine Learning ,flutter,Hybrid multi cloud.
+- 👯 I’m looking to collaborate on opensource project.
+- 🤔 I’m looking for help with 
+- 💬 Ask me about data science ,DevOps,Machine Learning or any tech related stuff.
 - 📫 How to reach me: [Twitter - @imthepk](https://twitter.com/imthepk) , [Youtube - @mtechviral](https://youtube.com/mtechviral)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
+- ⚡ Fun fact: I spend almost 2 hours playing chess everyday.
 
 
 **Languages and Tools:**  
