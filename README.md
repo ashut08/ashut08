@@ -1,7 +1,7 @@
 ### Hola I'm Ashutosh Singh 👋
 
 ## Hi there 👋,           
-I'm Ashutosh singh, Student at 👨‍💻 Kurukshetra University kurukshetra Pursuing MCA. I am a Data Science Enthusiast, Future Cloud Evangalist☁ and DevOps Specialist and love to integrate all these technologies to create highly-skilled tech product. Automation is a future and I'm contributing to the future by automating ML and DL models to make easy the hard work at jobs of Data Scientist.🙏
+
 <a href="https://linkedin.com/in/ashu8">
   <img align="left" alt="Ashutosh Singh Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -17,10 +17,12 @@ I'm Ashutosh singh, Student at 👨‍💻 Kurukshetra University kurukshetra Pu
 
 <br/>
 <br/>
+## About
+I'm Ashutosh singh, Student at 👨‍💻 Kurukshetra University kurukshetra Pursuing MCA. I am a Data Science Enthusiast, Future Cloud Evangalist☁ and DevOps Specialist and love to integrate all these technologies to create highly-skilled tech product. Automation is a future and I'm contributing to the future by automating ML and DL models to make easy the hard work at jobs of Data Scientist.🙏
 
 
 
-
+## Hello-World
 - 🔭 I’m currently working on intern and trainee [linux world informatics pvt ltd] (http://www.linuxworldindia.org/)
 - 🌱 I’m currently learning Data Science ,Machine Learning ,flutter,Hybrid multi cloud.
 - 👯 I’m looking to collaborate on opensource project.
