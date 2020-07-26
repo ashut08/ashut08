@@ -1,4 +1,4 @@
-[![Seema Saharan's github stats](https://github-readme-stats.vercel.app/api?username=seema1711)](https://github.com/seema1711/github-readme-stats)### Hola I'm Ashutosh Singh 👋
+### Hola I'm Ashutosh Singh 👋
 
 ## Hi there 👋,           
 
