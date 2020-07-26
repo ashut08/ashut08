@@ -50,4 +50,5 @@ I'm Ashutosh singh, Student at 👨‍💻 Kurukshetra University kurukshetra Pu
 
 <br/>
 <br/>
- <img src=" https://github-readme-stats.vercel.app/api?username=ashut08" ></img>
+ 
+ [!(https://github-readme-stats.vercel.app/api?username=ashut08)]
