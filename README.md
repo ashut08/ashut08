@@ -9,7 +9,7 @@
   <img align="left" alt="Ashutosh Singh Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://medium.com/@ashusingh.unch8">
-  <img align="left" alt="Ashutosh Singh Medium"  width="22px" src="https://miro.medium.com/max/968/1*F6SrJR7_s95r6oCF3ugMZw.png" />
+  <img align="left" alt="Ashutosh Singh Medium"  width="50x" src="https://miro.medium.com/max/968/1*F6SrJR7_s95r6oCF3ugMZw.png" />
 </a>
 
 <br/>
