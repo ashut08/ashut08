@@ -14,7 +14,7 @@
 <a href="https://medium.com/@ashusingh.unch8">
   <img align="left" alt="Ashutosh Singh Medium"  width="80px" src="https://miro.medium.com/max/968/1*F6SrJR7_s95r6oCF3ugMZw.png" />
 </a>
-[![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:ghumare64@gmail.com)](mailto:ghumare64@gmail.com)
+
 
 <br/>
 <br/>
@@ -47,3 +47,8 @@ I'm Ashutosh singh, Student at 👨‍💻 Kurukshetra University kurukshetra Pu
 <code><img height="80" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png"></code> 
 <code><img height="80" src="https://d3pmluylahx1gi.cloudfront.net/wp-content/uploads/2019/08/04212458/Nub8-What-is-Devops.png"></code> 
 <code><img height="80" src="https://miro.medium.com/max/730/1*WCsqMt85nMP0DvYv0JnkOA.png"></code> 
+
+<br/>
+<br/>
+[![Ashutosh Singh's github stats](https://github-readme-stats.vercel.app/api?username=ashut08)](https://github.com/ashut08/github-readme-stats)
+
