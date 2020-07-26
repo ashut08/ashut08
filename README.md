@@ -1,4 +1,7 @@
 ### Hola I'm Ashutosh Singh 👋
+
+## Hi there 👋,           
+I'm Ashutosh singh, Student at 👨‍💻 Kurukshetra University kurukshetra Pursuing MCA. I am a Data Science Enthusiast, Future Cloud Evangalist☁ and DevOps Specialist and love to integrate all these technologies to create highly-skilled tech product. Automation is a future and I'm contributing to the future by automating ML and DL models to make easy the hard work at jobs of Data Scientist.🙏
 <a href="https://linkedin.com/in/ashu8">
   <img align="left" alt="Ashutosh Singh Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -32,9 +35,11 @@
 
 **Languages and Tools:**  
 
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></code>
-<code><img height="50" src="https://mms.businesswire.com/media/20200226005514/en/719420/23/Red_Hat_new_BW.jpg"></code>
-<code><img height="50" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png"></code>    
+<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="80" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></code>
+<code><img height="80" src="https://mms.businesswire.com/media/20200226005514/en/719420/23/Red_Hat_new_BW.jpg"></code>
+<code><img height="80" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png"></code> 
+<code><img height="80" src="https://d3pmluylahx1gi.cloudfront.net/wp-content/uploads/2019/08/04212458/Nub8-What-is-Devops.png"></code> 
+<code><img height="80" src="https://miro.medium.com/max/730/1*WCsqMt85nMP0DvYv0JnkOA.png"></code> 
