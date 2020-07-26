@@ -17,6 +17,7 @@
 
 <br/>
 <br/>
+
 ## About
 I'm Ashutosh singh, Student at 👨‍💻 Kurukshetra University kurukshetra Pursuing MCA. I am a Data Science Enthusiast, Future Cloud Evangalist☁ and DevOps Specialist and love to integrate all these technologies to create highly-skilled tech product. Automation is a future and I'm contributing to the future by automating ML and DL models to make easy the hard work at jobs of Data Scientist.🙏
 
