@@ -1,4 +1,4 @@
-### Hola I'm Ashutosh Singh 👋
+[![Seema Saharan's github stats](https://github-readme-stats.vercel.app/api?username=seema1711)](https://github.com/seema1711/github-readme-stats)### Hola I'm Ashutosh Singh 👋
 
 ## Hi there 👋,           
 
@@ -50,4 +50,4 @@ I'm Ashutosh singh, Student at 👨‍💻 Kurukshetra University kurukshetra Pu
 
 <br/>
 <br/>
- [![Seema Saharan's github stats](https://github-readme-stats.vercel.app/api?username=seema1711)](https://github.com/seema1711/github-readme-stats)
+ [![Ashutosh Singh's github stats](https://github-readme-stats.vercel.app/api?username=ashut08)](https://github.com/ashut08/github-readme-stats)
