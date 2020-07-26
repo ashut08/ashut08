@@ -14,6 +14,7 @@
 <a href="https://medium.com/@ashusingh.unch8">
   <img align="left" alt="Ashutosh Singh Medium"  width="80px" src="https://miro.medium.com/max/968/1*F6SrJR7_s95r6oCF3ugMZw.png" />
 </a>
+[![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:ghumare64@gmail.com)](mailto:ghumare64@gmail.com)
 
 <br/>
 <br/>
