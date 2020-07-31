@@ -48,6 +48,7 @@ I'm Ashutosh singh, Student at 👨‍💻 Kurukshetra University kurukshetra Pu
 <code><img height="80" src="https://d3pmluylahx1gi.cloudfront.net/wp-content/uploads/2019/08/04212458/Nub8-What-is-Devops.png"></code> 
 <code><img height="80" src="https://miro.medium.com/max/730/1*WCsqMt85nMP0DvYv0JnkOA.png"></code> 
 <code><img height="80" src="https://miro.medium.com/max/590/0*BH2EDG0Slfbp9L5C.png"></code>
+<code><img height="80" src="https://d1nzzttg89jj6.cloudfront.net/assets/articles/1575354413/klarna-signs-deal-with-aws-1575354413.png"></code>
 
 <br/>
 <br/>
