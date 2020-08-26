@@ -33,7 +33,7 @@ I'm Ashutosh singh, Student at 👨‍💻 Kurukshetra University kurukshetra Pu
 - 📫 How to reach me: (https://linkedin.com/in/ashu8) 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 5 hours for playing chess ,reading blog and listening music everyday.
-- 💬 Ping Me about #Cloud, #DevOps, #MLOps, #Deep Learning, #Machine Learning, #Data Science, #Computer Vision, #Profile Building #CampusOps and anything you like... I'll try my best to help you.😊❤
+- 💬 Ping Me about #Cloud, #DevOps, #MLOps, #Deep Learning, #Machine Learning, #Data Science, #Computer Vision, and anything you like... I'll try my best to help you.😊❤
 
 
 
