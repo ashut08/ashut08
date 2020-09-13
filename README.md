@@ -51,7 +51,7 @@ I'm Ashutosh singh, Student at 👨‍💻 Kurukshetra University kurukshetra Pu
 <code><img height="40" src="https://d1nzzttg89jj6.cloudfront.net/assets/articles/1575354413/klarna-signs-deal-with-aws-1575354413.png"></code>
 
 <br/>
-<br/>
+
 
 
 <img src ="https://github-readme-stats.vercel.app/api?username=ashut08&&show_icons=true&title_color=1AC4C4&icon_color=0AC813&text_color=daf7dc&bg_color=010545">
