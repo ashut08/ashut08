@@ -42,7 +42,7 @@ I'm Ashutosh singh, Student at 👨‍💻 Kurukshetra University kurukshetra Pu
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></code>
-<code><img height="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fawscloud&psig=AOvVaw2PohHqQXH0BLgfYSt__ZvX&ust=1619955968020000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPis27K0qPACFQAAAAAdAAAAABAI" ></code>
+<code><img height="40" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F3%2F35%2FTux.svg%2F1200px-Tux.svg.png&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FLinux&tbnid=BtczvW9dg9vY7M&vet=12ahUKEwjxoe7_tKjwAhVADbcAHfTPBU4QMygAegUIARDPAQ..i&docid=JxAKWfRo80kraM&w=1200&h=1421&q=linux%20logo&client=firefox-b-d&ved=2ahUKEwjxoe7_tKjwAhVADbcAHfTPBU4QMygAegUIARDPAQ" ></code>
 
 <br/>
 
