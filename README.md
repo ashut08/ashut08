@@ -25,15 +25,15 @@ I'm Ashutosh singh, Student at 👨‍💻 Kurukshetra University kurukshetra Pu
 
 
 ## Hello-World
-- 🔭 I’m currently working on intern and trainee [linux world informatics pvt ltd] (http://www.linuxworldindia.org/)
-- 🌱 I’m currently learning Data Science ,Machine Learning ,flutter,Hybrid multi cloud.
+- 🔭 I’m currently working as a flutter developer at  [paras technologies pvt. ltd] (https://parastechnologies.com/)
+- 🌱 I’m currently learning flutter,swiftUI,DevOps tools.
 - 👯 I’m looking to collaborate on opensource project.
 - 🤔 I’m looking for help with My technical article .
 - 💬 Ask me about data science ,DevOps,Machine Learning or any tech related stuff.
 - 📫 How to reach me: (https://linkedin.com/in/ashu8) 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact:I spend almost 5 hours for playing chess ,reading blog and listening music everyday.
-- 💬 Ping Me about #Cloud, #DevOps, #MLOps, #Deep Learning, #Machine Learning, #Data Science, and anything you like... I'll try my best to help you.😊❤
+- 💬 Ping Me about  #flutter,#DevOps,  #Cloud, #DevOps, and anything you like... I'll try my best to help you.😊❤
 
 
 **Languages and Tools:**  
@@ -42,11 +42,8 @@ I'm Ashutosh singh, Student at 👨‍💻 Kurukshetra University kurukshetra Pu
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></code>
-<code><img height="40" src="https://mms.businesswire.com/media/20200226005514/en/719420/23/Red_Hat_new_BW.jpg"></code>
-<code><img height="40" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png"></code> 
 <code><img height="40" src="https://d3pmluylahx1gi.cloudfront.net/wp-content/uploads/2019/08/04212458/Nub8-What-is-Devops.png"></code> 
 <code><img height="40" src="https://miro.medium.com/max/730/1*WCsqMt85nMP0DvYv0JnkOA.png"></code> 
-<code><img height="40" src="https://miro.medium.com/max/590/0*BH2EDG0Slfbp9L5C.png"></code>
 <code><img height="40" src="https://d1nzzttg89jj6.cloudfront.net/assets/articles/1575354413/klarna-signs-deal-with-aws-1575354413.png"></code>
 
 <br/>
