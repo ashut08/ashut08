@@ -11,7 +11,7 @@
 <a href="https://instagram.com/ashusingh.unch/">
   <img align="left" alt="Ashutosh Singh Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://medium.com/@ashusingh.unch8">
+<a href="https://ashusingh-unch8.medium.com/">
   <img align="left" alt="Ashutosh Singh Medium"  width="80px" src="https://miro.medium.com/max/968/1*F6SrJR7_s95r6oCF3ugMZw.png" />
 </a>
 
@@ -42,7 +42,7 @@ I'm Ashutosh singh, Student at 👨‍💻 Kurukshetra University kurukshetra Pu
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></code>
-<code><img height="40" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F3%2F35%2FTux.svg%2F1200px-Tux.svg.png&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FLinux&tbnid=BtczvW9dg9vY7M&vet=12ahUKEwjxoe7_tKjwAhVADbcAHfTPBU4QMygAegUIARDPAQ..i&docid=JxAKWfRo80kraM&w=1200&h=1421&q=linux%20logo&client=firefox-b-d&ved=2ahUKEwjxoe7_tKjwAhVADbcAHfTPBU4QMygAegUIARDPAQ" ></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1200px-Amazon_Web_Services_Logo.svg.png" ></code>
 
 <br/>
 
