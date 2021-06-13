@@ -29,7 +29,7 @@ I'm Ashutosh singh, Student at 👨‍💻 Kurukshetra University kurukshetra Pu
 - 🌱 I’m currently learning flutter,swiftUI,DevOps tools.
 - 👯 I’m looking to collaborate on opensource project.
 - 🤔 I’m looking for help with My technical article .
-- 💬 Ask me about data science ,DevOps,Machine Learning or any tech related stuff.
+- 💬 Ask me about flutter,dart ,DevOps,or any tech related stuff.
 - 📫 How to reach me: (https://linkedin.com/in/ashu8) 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact:I spend almost 5 hours for playing chess ,reading blog and listening music everyday.
