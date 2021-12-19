@@ -53,19 +53,19 @@ I'm Ashutosh singh, Student at 👨‍💻 Kurukshetra University kurukshetra Pu
 
 
 <table>
-   
     <tr>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=ashut08&count_private=true&theme=dark&show_icons=true" align="center"/>
+            <img src="https://spotify-recently-played-readme.vercel.app/api?user=wex8xjk0lgc4m948k3cb68xe8&count=1&width=500" align="center"/>
+        </td>
+        <td rowspan=2>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debanshu777&theme=dark" align="center"/>
         </td>
     </tr>
-  
     <tr>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=ashut08&&show_icons=true&title_color=1AC4C4&icon_color=0AC813&text_color=daf7dc&bg_color=010545" align="center"/>
+            <img src="https://github-readme-stats.vercel.app/api?username=Debanshu777&count_private=true&theme=dark&show_icons=true" align="center"/>
         </td>
     </tr>
-    
 </table>
 
 
