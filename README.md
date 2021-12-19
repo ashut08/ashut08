@@ -26,7 +26,7 @@ I'm Ashutosh singh, Student at 👨‍💻 Kurukshetra University kurukshetra Pu
 
 ## Hello-World
 - 🔭 I’m currently working as a flutter developer at  [paras technologies pvt. ltd] (https://parastechnologies.com/)
-- 🌱 I’m currently learning flutter,swiftUI,DevOps tools.
+- 🌱 I’m currently learning jetpack compose,swiftUI,DevOps tools.
 - 👯 I’m looking to collaborate on opensource project.
 - 🤔 I’m looking for help with My technical article .
 - 💬 Ask me about flutter,dart ,DevOps,or any tech related stuff.
@@ -42,7 +42,12 @@ I'm Ashutosh singh, Student at 👨‍💻 Kurukshetra University kurukshetra Pu
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></code>
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1200px-Amazon_Web_Services_Logo.svg.png" ></code>
+<code><img height="40" src="https://pbs.twimg.com/profile_images/1399329694340747271/T5fbWxtN_400x400.png" >
+
+</code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1200px-Amazon_Web_Services_Logo.svg.png" >
+
+</code>
 
 <br/>
 
@@ -50,3 +55,6 @@ I'm Ashutosh singh, Student at 👨‍💻 Kurukshetra University kurukshetra Pu
 
 <img src ="https://github-readme-stats.vercel.app/api?username=ashut08&&show_icons=true&title_color=1AC4C4&icon_color=0AC813&text_color=daf7dc&bg_color=010545">
 
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0" alt="Recent Article 0"> 
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/2" alt="Recent Article 2"> 
