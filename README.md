@@ -56,7 +56,7 @@ I'm Ashutosh singh, Student at 👨‍💻 Kurukshetra University kurukshetra Pu
 <table>
     <tr>
         <td>
-            <img src="https://spotify-recently-played-readme.vercel.app/api?user=xuz4kncsxwh0wwg17dz3zgvy8&count=1&width=500" align="center"/>
+            <img src="https://spotify-recently-played-readme.vercel.app/api?user=rxuz4kncsxwh0wwg17dz3zgvy" align="center"/>
         </td>
         <td rowspan=2>
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashut08&theme=dark" align="center"/>
