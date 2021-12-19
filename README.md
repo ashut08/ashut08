@@ -51,7 +51,7 @@ I'm Ashutosh singh, Student at 👨‍💻 Kurukshetra University kurukshetra Pu
 
 
 
-<img src =>
+
 <table>
    
     <tr>
