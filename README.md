@@ -60,12 +60,12 @@ I'm Ashutosh singh, Student at 👨‍💻 Kurukshetra University kurukshetra Pu
         </td>
     </tr>
   
-  
     <tr>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=ashut08&&show_icons=true&title_color=1AC4C4&icon_color=0AC813&text_color=daf7dc&bg_color=010545"" align="center"/>
+            <img src="https://github-readme-stats.vercel.app/api?username=ashut08&&show_icons=true&title_color=1AC4C4&icon_color=0AC813&text_color=daf7dc&bg_color=010545" align="center"/>
         </td>
     </tr>
+    
 </table>
 
 
