@@ -71,10 +71,12 @@ I'm Ashutosh singh, Student at 👨‍💻 Kurukshetra University kurukshetra Pu
 
 
 ### Blog Posts:
-<a href="https://ashuflutterdev.medium.com/">
-<img src="https://github-readme-medium.vercel.app/?username=ashuflutterdev&limit=2"/>
-</a>
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ashuflutterdev/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ashuflutterdev/0" alt="Recent Article 0"> 
 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ashuflutterdev/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ashuflutterdev/2" alt="Recent Article 2"> 
+
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ashuflutterdev/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ashuflutterdev/3" alt="Recent Article 3"> 
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
