@@ -71,8 +71,8 @@ I'm Ashutosh singh, Student at 👨‍💻 Kurukshetra University kurukshetra Pu
 
 
 ### Blog Posts:
-<a href="https://debanshudatta.medium.com/">
-<img src="https://github-readme-medium.vercel.app/?username=debanshudatta&limit=2"/>
+<a href="https://ashuflutterdev.medium.com/">
+<img src="https://github-readme-medium.vercel.app/?username=ashuflutterdev&limit=2"/>
 </a>
 
 <div align="center">
