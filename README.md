@@ -57,5 +57,5 @@ I'm Ashutosh singh, Student at 👨‍💻 Kurukshetra University kurukshetra Pu
 ## Blog-Post
 
 <a href="https://ashuflutterdev.medium.com/">
-<img src="https://github-readme-medium.vercel.app/?username=ashuflutterdev&limit=4"/>
+<img src="https://github-readme-medium.vercel.app/?username=ashuflutterdev&limit=42"/>
 </a>
