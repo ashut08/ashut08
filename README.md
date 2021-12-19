@@ -8,7 +8,7 @@
 <a href="https://github.com/ashut08">
   <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://instagram.com/ashusingh.unch/">
+<a href="https://instagram.com/ashu_flutterdev/">
   <img align="left" alt="Ashutosh Singh Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://ashusingh-unch8.medium.com/">
@@ -20,7 +20,11 @@
 <br/>
 
 ## About
-I'm Ashutosh singh, Student at 👨‍💻 Kurukshetra University kurukshetra Pursuing MCA. I am a Data Science Enthusiast, Future Cloud Evangalist☁ and DevOps Specialist and love to integrate all these technologies to create highly-skilled tech product. Automation is a future and I'm contributing to the future by automating ML and DL models to make easy the hard work at jobs of Data Scientist.🙏
+#### I build Android apps and write articles!
+
+- 💡 Writer at : [@Medium](https://gsrathoreniks.medium.com)
+
+<br/>
 
 
 
