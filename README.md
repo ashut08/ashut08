@@ -55,6 +55,6 @@ I'm Ashutosh singh, Student at 👨‍💻 Kurukshetra University kurukshetra Pu
 
 <img src ="https://github-readme-stats.vercel.app/api?username=ashut08&&show_icons=true&title_color=1AC4C4&icon_color=0AC813&text_color=daf7dc&bg_color=010545">
 
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ashuflutterdev/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0" alt="Recent Article 0"> 
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ashuflutterdev/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ashuflutterdev/0" alt="Recent Article 0"> 
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ashuflutterdev/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/2" alt="Recent Article 2"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ashuflutterdev/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ashuflutterdev/2" alt="Recent Article 2"> 
