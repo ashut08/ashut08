@@ -45,16 +45,36 @@ I'm Ashutosh singh, Student at 👨‍💻 Kurukshetra University kurukshetra Pu
 <code><img height="40" src="https://pbs.twimg.com/profile_images/1399329694340747271/T5fbWxtN_400x400.png" >
 
 </code>
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1200px-Amazon_Web_Services_Logo.svg.png" >
 
-</code>
 
 <br/>
 
 
 
-<img src ="https://github-readme-stats.vercel.app/api?username=ashut08&&show_icons=true&title_color=1AC4C4&icon_color=0AC813&text_color=daf7dc&bg_color=010545">
+<img src =>
+<table>
+   
+    <tr>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api?username=ashut08&count_private=true&theme=dark&show_icons=true" align="center"/>
+        </td>
+    </tr>
+  
+  
+    <tr>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api?username=ashut08&&show_icons=true&title_color=1AC4C4&icon_color=0AC813&text_color=daf7dc&bg_color=010545"" align="center"/>
+        </td>
+    </tr>
+</table>
+
+
+
 ## Blog-Post
+
+
+
+
 
 <a href="https://ashuflutterdev.medium.com/">
 <img src="https://github-readme-medium.vercel.app/?username=ashuflutterdev&limit=42"/>
