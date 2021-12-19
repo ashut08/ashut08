@@ -25,7 +25,7 @@ I'm Ashutosh singh, Student at 👨‍💻 Kurukshetra University kurukshetra Pu
 
 
 ## Hello-World
-- 🔭 I’m currently working as a flutter developer at  [paras technologies pvt. ltd] (https://parastechnologies.com/)
+- 🔭 I’m currently working as a flutter developer at  [Xicom Technologies ltd] (https://www.xicom.biz/)
 - 🌱 I’m currently learning jetpack compose,swiftUI,DevOps tools.
 - 👯 I’m looking to collaborate on opensource project.
 - 🤔 I’m looking for help with My technical article .
