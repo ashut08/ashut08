@@ -20,7 +20,7 @@
 <br/>
 
 ## About
-#### I build Android apps and write articles!
+#### I build Android and iOS apps and write articles!
 
 - 💡 Writer at : [@Medium](https://gsrathoreniks.medium.com)
 
