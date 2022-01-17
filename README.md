@@ -20,13 +20,14 @@
 <br/>
 
 ## About
-#### I build Android and iOS apps and write articles!
 
-- 💡 Writer at : [@Medium](https://gsrathoreniks.medium.com)
+
+- 📱 Android Engineeer
+- 👨‍💻 Mostly working on Android, Flutter,Kotlin!
+- ✍️ Write stuff on [Medium](https://ashuflutterdev.medium.com).
+- 🎮 Loves reading books and articles.
 
 <br/>
-
-
 
 ## Hello-World
 - 🔭 I’m currently working as a flutter developer at  [Xicom Technologies ltd] (https://www.xicom.biz/)
