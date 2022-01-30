@@ -22,8 +22,8 @@
 ## About
 
 
-- 📱 Android Engineeer
-- 👨‍💻 Mostly working on Android, Flutter,Kotlin!
+- 📱 Mobile App Engineeer
+- 👨‍💻 Mostly working on Android,iOS, Flutter, Jetpack Compose,Kotlin,Dart!
 - ✍️ Write stuff on [Medium](https://ashuflutterdev.medium.com).
 - 🎮 Loves reading books and articles.
 
