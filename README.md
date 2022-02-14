@@ -11,7 +11,7 @@
 <a href="https://instagram.com/ashu_flutterdev/">
   <img align="left" alt="Ashutosh Singh Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://ashusingh-unch8.medium.com/">
+<a href="https://ashuflutterdev.medium.com">
   <img align="left" alt="Ashutosh Singh Medium"  width="80px" src="https://miro.medium.com/max/968/1*F6SrJR7_s95r6oCF3ugMZw.png" />
 </a>
 
