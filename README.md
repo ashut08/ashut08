@@ -6,7 +6,7 @@
   <img align="left" alt="Ashutosh Singh Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/ashut08">
-  <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Ashu's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://instagram.com/ashu_flutterdev/">
   <img align="left" alt="Ashutosh Singh Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
@@ -14,6 +14,10 @@
 <a href="https://ashuflutterdev.medium.com">
   <img align="left" alt="Ashutosh Singh Medium"  width="80px" src="https://miro.medium.com/max/968/1*F6SrJR7_s95r6oCF3ugMZw.png" />
 </a>
+<a href="https://stackoverflow.com/users/13400001/ashutosh-singh">
+  <img align="left" alt="Ashutosh Singh Medium"  width="80px" src="https://cdn.sstatic.net/sites/stackoverflow/img/logo.png" />
+</a>
+
 
 
 <br/>
@@ -48,6 +52,8 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+
 <code><img height="40" src="https://pbs.twimg.com/profile_images/1399329694340747271/T5fbWxtN_400x400.png" >
 
 </code>
