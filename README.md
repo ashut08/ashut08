@@ -8,7 +8,7 @@
 <a href="https://github.com/ashut08">
   <img align="left" alt="Ashu's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://instagram.com/ashu_flutterdev/">
+<a href="https://www.instagram.com/love_coding_with_ashu/">
   <img align="left" alt="Ashutosh Singh Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://ashuflutterdev.medium.com">
