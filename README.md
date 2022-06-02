@@ -81,7 +81,8 @@
     </tr>
   <tr>
     <td>
-      [![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=13400001)](https://stackoverflow.com/users/13400001/ashutosh-singh)
+       <img src="https://github-readme-stackoverflow.vercel.app/?userID=13400001&count_private=true&theme=dark&show_icons=true" align="center"/>
+<!--       [![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=13400001)](https://stackoverflow.com/users/13400001/ashutosh-singh) -->
     </td>
   </tr>
 </table>
