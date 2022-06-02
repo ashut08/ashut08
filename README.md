@@ -79,6 +79,11 @@
             <img src="https://github-readme-stats.vercel.app/api?username=ashut08&count_private=true&theme=dark&show_icons=true" align="center"/>
         </td>
     </tr>
+  <tr>
+    <td>
+      [![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=13400001)](https://stackoverflow.com/users/13400001/ashutosh-singh)
+    </td>
+  </tr>
 </table>
 
 
