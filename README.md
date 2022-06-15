@@ -30,6 +30,7 @@
 - 👨‍💻 Mostly working on Android,iOS, Flutter, Jetpack Compose,Kotlin,Dart!
 - ✍️ Write stuff on [Medium](https://ashuflutterdev.medium.com).
 - 🎮 Loves reading books and articles.
+-   ![Uploading image.png…]()  Live [Portfolio] (https://lovecodingwithashu.tech/#/)
 
 <br/>
 
