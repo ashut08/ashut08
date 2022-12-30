@@ -80,7 +80,7 @@
             <img src="https://github-readme-stats.vercel.app/api?username=ashut08&count_private=true&theme=dark&show_icons=true" align="center"/>
         </td>
     </tr>
-  <tr> #### Stack Overflow Reputation
+  <tr> 
     <td>
    
        <img src="https://github-readme-stackoverflow.vercel.app/?userID=13400001&count_private=true&theme=dark&show_icons=true" align="center"/>
