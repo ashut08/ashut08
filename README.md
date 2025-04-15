@@ -35,7 +35,7 @@
 <br/>
 
 ## Hello-World
-- 🔭 I’m currently working as a flutter developer at  [Artivatic.ai] (https://artivatic.ai/)
+- 🔭 I’m currently working as a flutter developer at  [Revnue] (https://revnue.com/)
 - 🌱 I’m currently learning jetpack compose,swiftUI,DevOps tools.
 - 👯 I’m looking to collaborate on opensource project.
 - 🤔 I’m looking for help with My technical article .
